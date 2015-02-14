@@ -1,0 +1,46 @@
+#side{
+	 
+    width: 100%;
+    position: absolute;
+    left: 0%;
+	top: 0px;
+}
+#topnavigation{
+     
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    left: 0px;
+    top: 0px; 
+}
+#coverbillede{
+     
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    left: 0px;
+    top: 0px; 
+}
+#navigation{
+	 
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	left: 0px;
+	top: 250px;
+}	
+#indhold{
+     
+    width: 1000px;
+    height: 100%;
+    border-style: solid;
+    border-color: #000;
+    border-width: thin;
+    position: absolute;
+    left: 50%;
+    margin-left: -500px; 
+	top: 350px;
+}
+#sidebar{
+	 	
+}
